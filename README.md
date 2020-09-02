@@ -1,0 +1,1 @@
+# hibernate-main-information
