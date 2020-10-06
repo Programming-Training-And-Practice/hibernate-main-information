@@ -1,4 +1,4 @@
-# Hibernate Main Information.
+# Hibernate.
 
 
 
